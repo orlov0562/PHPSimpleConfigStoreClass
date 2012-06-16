@@ -7,9 +7,8 @@ cfg::set('DB_USER', 'root');
 cfg::set('DB_PASS', '');
 cfg::set('DB_NAME', 'database');
 
-cfg::set('ALLOWED_IPs', array(	'127.0.0.1', 
-								'192.168.0.100')
-);
+cfg::set('ALLOWED_IPs', array(	'127.0.0.1', '192.168.0.100'));
+
 ?>
 
 Get variables:
