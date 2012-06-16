@@ -1,4 +1,4 @@
-<?php if (!defined('ALLOW_ACCESS') OR !ALLOW_ACCESS) die('Access denied');
+<?php
 
     class cfg {
         private static $cfg_prefix='__cfg';
